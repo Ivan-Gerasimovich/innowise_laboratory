@@ -1,0 +1,7 @@
+[project]
+
+name = "color_printing"
+
+version = "0.1"
+
+dependencies = ["colorama"]
